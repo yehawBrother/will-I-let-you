@@ -1,0 +1,48 @@
+.h1 {
+  text-align: center;
+  font-family: "Dancing Script", Sans-Serif;
+  font-size: 12vh;
+ 
+  margin: 0;
+}
+.form1{
+  text-align: center;
+  padding: 6.5vh;
+  
+}
+#output{
+  text-align: center;
+  font-size: 10vh; 
+  font-family: Sans-Serif; 
+  
+  margin: 1vh; 
+  
+  
+}
+
+.bodyc{
+  background: linear-gradient(rgb(255, 105, 180), rgb(150, 244, 255));
+  color: white;
+  height: 100vh; 
+  
+}
+input {
+  font-size: 5vh;
+}
+.yee {
+  height: 100vh; 
+ background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Battle_flag_of_the_Confederate_States_of_America.svg/1200px-Battle_flag_of_the_Confederate_States_of_America.svg.png');
+  background-size: cover;
+  color: #999ea8; 
+  
+}
+#info {
+  width: 15vh;
+  border: 2px dotted blue;
+  padding: 3vh;
+  display:flex;
+  font-family: Sans-Serif;
+  position: right;
+  font-size: 2.5vh;
+  border-radius: .5em; 
+}

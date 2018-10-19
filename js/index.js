@@ -18,7 +18,7 @@ function myFunction(){
 
   
 if(input == "jack" || input == "Jack"){
-  output.innerHTML = "yess daddy ;)" + rand3;
+  output.innerHTML = "if you don't gtfo big thottie";
  
  
 } else if (input != "jack"){
